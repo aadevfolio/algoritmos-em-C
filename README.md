@@ -5,7 +5,7 @@
 ## Descrição: 
 Esse repositório esta todos os exercicos de algoritmo que fiz na linguagem C para estudo. Usei a IDE DEV C++ para desenvolver e testar os resultados.
 
-### Base para estudo 
+### Base para estudo:
 
 - Curso: Lógica de Programação - Curso em Video
 - Livro: Algoritmos e Lógica de Programação em C por: Silvio do Lago Pereira
