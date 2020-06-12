@@ -12,6 +12,12 @@ Esse repositório esta todos os exercicos de algoritmo que fiz na linguagem C pa
 - Livro: Lógica de Programação Aprendendo a Programar por: Camila Ceccatto da Silva e Everaldo Antônio de Paula
 - Lista de Exercícios: IFC por: prof. Angelo Augusto Frozza
 
+### Divisão do conteúdo:
+
+- Nivel 1: Algoritmos Básicos com exercícios de lógica
+- Nivel 2: Algoritmos Intermédiarios com estruturas de condição e repetição 
+- Nivel 3: Algoritmos Avançados com funções, vetores e matrizes
+
 ### Participante:
 |name|email|
 | -------- | -------- |
