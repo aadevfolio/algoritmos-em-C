@@ -1,6 +1,6 @@
 # Algoritmos
 
-> Status do Projeto: Em andamento :warning:
+> Status do Projeto: Concluido :heavy_check_mark:
 
 ## Descrição: 
 Esse repositório esta todos os exercicos de algoritmo que fiz na linguagem C para estudo. Usei a IDE DEV C++ para desenvolver e testar os resultados.
