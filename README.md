@@ -3,7 +3,7 @@
 > Status do Projeto: Concluido :heavy_check_mark:
 
 ## Descrição: 
-Esse repositório esta todos os exercicos de algoritmo que fiz na linguagem C para estudo. Usei a IDE DEV C++ para desenvolver e testar os resultados.
+Esse repositório estão todos os exercícios de algoritmos que fiz na linguagem C para estudo. Usei a IDE DEV C++ para desenvolver e testar os resultados.
 
 ### Base para estudo:
 
