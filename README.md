@@ -3,7 +3,7 @@
 > Status do Projeto: Concluido :heavy_check_mark:
 
 ## Descrição: 
-Neste repositório estão todos os exercícios de algoritmos que fiz na linguagem C para estudo de lógica de programação e estrutura de dados. Usei a IDE Repl.It: https://repl.it/languages/c Repl.It para desenvolver e testar os resultados.
+Neste repositório estão todos os exercícios de algoritmos que fiz na linguagem C para estudo de lógica de programação e estrutura de dados. Usei a IDE Repl.It: https://repl.it/languages/c para desenvolver e testar os resultados.
 
 ### Base para estudo:
 
