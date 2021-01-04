@@ -1,9 +1,9 @@
-# Algoritmos
+# Algoritmos, Lógica de Programação e Estrutura de Dados
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
 ## Descrição: 
-Neste repositório estão todos os exercícios de algoritmos que fiz na linguagem C para estudo. Usei a IDE DEV C++ para desenvolver e testar os resultados.
+Neste repositório estão todos os exercícios de algoritmos que fiz na linguagem C para estudo de lógica de programação e estrutura de dados. Usei a IDE Repl.It [[Link da IDE Repl.It]][link][link]: http://https://repl.it/languages/c "Repl.It para desenvolver e testar os resultados.
 
 ### Base para estudo:
 
@@ -16,7 +16,7 @@ Neste repositório estão todos os exercícios de algoritmos que fiz na linguage
 
 - Nivel 1: Algoritmos Básicos com exercícios de lógica
 - Nivel 2: Algoritmos Intermédiarios com estruturas de condição e repetição 
-- Nivel 3: Algoritmos Avançados com funções, vetores e matrizes
+- Nivel 3: Algoritmos Avançados com funções e procedimento, vetores e matrizes, estrutura de dados
 
 ### Participante:
 |name|email|
