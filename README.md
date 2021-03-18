@@ -1,4 +1,4 @@
-# Algoritmos, Lógica de Programação e Estrutura de Dados
+# Algoritmos e Estrutura de Dados
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
@@ -16,7 +16,7 @@ Neste repositório estão todos os exercícios de algoritmos que fiz na linguage
 
 - Nivel 1: Algoritmos Básicos com exercícios de lógica
 - Nivel 2: Algoritmos Intermédiarios com estruturas de condição e repetição 
-- Nivel 3: Algoritmos Avançados com funções e procedimento, vetores e matrizes, estrutura de dados
+- Nivel 3: Algoritmos Avançados com funções e procedimento, vetores e matrizes e estrutura de dados
 
 ### Participante:
 |name|email|
