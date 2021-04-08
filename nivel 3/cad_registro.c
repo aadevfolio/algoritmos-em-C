@@ -63,10 +63,10 @@ void cad_funcio(){
             printf("Sexo: ");
             getchar();
             scanf("%c", &person[i].sexo);
-            if ((person[i].sexo != 'm' || person[i].sexo != 'M') && (person[i].sexo != 'f' || person[i].sexo != 'F')){
+            if (person[i].sexo != 'm' || person[i].sexo != 'M' || person[i].sexo != 'f' || person[i].sexo != 'F'){
                 printf("Erro! Por favor, use F - Feminino ou M - Masculino\n");
             }
-        } while ((person[i].sexo != 'm' || person[i].sexo != 'M') && (person[i].sexo != 'f' || person[i].sexo != 'F'));
+        } while (person[i].sexo != 'm' || person[i].sexo != 'M' || person[i].sexo != 'f' || person[i].sexo != 'F');
 
         printf("Idade: ");
         scanf("%d", &person[i].age);
