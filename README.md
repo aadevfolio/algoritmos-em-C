@@ -1,7 +1,5 @@
 # Algoritmos e Estrutura de Dados
 
-> Status do Projeto: Concluido :heavy_check_mark:
-
 ## Descrição: 
 Neste repositório estão todos os exercícios de algoritmos que fiz na linguagem C para estudo de lógica de programação e estrutura de dados. Usei a IDE Repl.It: https://repl.it/languages/c para desenvolver e testar os resultados.
 
@@ -14,12 +12,14 @@ Neste repositório estão todos os exercícios de algoritmos que fiz na linguage
 
 ### Divisão do conteúdo:
 
-- Nivel 1: Algoritmos Básicos com exercícios de lógica
-- Nivel 2: Algoritmos Intermédiarios com estruturas de condição e repetição 
-- Nivel 3: Algoritmos Avançados com funções e procedimento, vetores e matrizes e estrutura de dados
+- 01-simples: Algoritmos Básicos com exercícios de lógica
+- 02-ifelse: Algoritmos com estruturas de condição IF, ELSE e IFELSE
+- 03-switch: Algoritmos com estruturas de condição SWITCH
+- 04-dowhile: Algoritmos com estruturas de repetição DO WHILE e DOWHILE
+- 05-for: Algoritmos com estruturas de repetição FOR
+- 06-for: Algoritmos com Vetor e Matriz
+- funcao: Algoritmos com funções e procedimentos
+- mini-projetos: Mini projetos contendo todo o conteúdo de algoritmo
 
-### Participante:
-|name|email|
-| -------- | -------- |
-|Aline de Araújo|alineprofissional@outlook.com|
-
+### Gostou? Me envie um email:
+alineprofissional@outlook.com|
