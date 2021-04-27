@@ -51,7 +51,7 @@ int main() {
 void cad_funcio(){
     int i;
 
-    for (i=0; i<=5; i++){
+    for (i=0; i<=4; i++){
         printf("-----------------\n");
         printf("Dados do funcionário %d\n", (i+1));
         printf("Nome: ");
@@ -59,14 +59,9 @@ void cad_funcio(){
         scanf("%[^\n]s", person[i].name);
 
         // validar campo sexo 
-        do {
-            printf("Sexo: ");
-            getchar();
-            scanf("%c", &person[i].sexo);
-            if (person[i].sexo != 'm' || person[i].sexo != 'M' || person[i].sexo != 'f' || person[i].sexo != 'F'){
-                printf("Erro! Por favor, use F - Feminino ou M - Masculino\n");
-            }
-        } while (person[i].sexo != 'm' || person[i].sexo != 'M' || person[i].sexo != 'f' || person[i].sexo != 'F');
+        printf("Sexo: ");
+        getchar();
+        scanf("%c", &person[i].sexo);
 
         printf("Idade: ");
         scanf("%d", &person[i].age);
@@ -78,7 +73,7 @@ void cad_funcio(){
 void menu(){
     printf("-----------------\n");
     printf("1 - Relatório Geral\n");
-    printf("1 - Relatório Senior\n");
+    printf("2 - Relatório Senior\n");
     printf("3 - Buscar Funcionario\n");
     printf("4 - Sair do programa\n");
 }
