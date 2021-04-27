@@ -18,8 +18,9 @@ Neste repositório estão todos os exercícios de algoritmos que fiz na linguage
 - 04-dowhile: Algoritmos com estruturas de repetição DO WHILE e DOWHILE
 - 05-for: Algoritmos com estruturas de repetição FOR
 - 06-for: Algoritmos com Vetor e Matriz
-- funcao: Algoritmos com funções e procedimentos
+- 07-funcao: Algoritmos com Funções e Procedimentos
+- 08-struct: Algoritmos com estrutura Struct
 - mini-projetos: Mini projetos contendo todo o conteúdo de algoritmo
 
 ### Gostou? Me envie um email:
-alineprofissional@outlook.com|
+alineprofissional@outlook.com
