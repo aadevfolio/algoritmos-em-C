@@ -6,6 +6,8 @@
 void cad_funcio();
 void menu();
 void left();
+void relatorio();
+void relatorio_senior();
 
 // STRUCT CADASTRO 
 typedef struct {
@@ -29,15 +31,12 @@ int main() {
         system("clear || cls");
         switch(opcao){
             case 1:
-
+                relatorio();
                 break;
             case 2:
-
+                relatorio_senior();
                 break;
             case 3:
-
-                break;
-            case 4:
                 left();
                 break;
             default:
@@ -57,12 +56,20 @@ void cad_funcio(){
         printf("Nome: ");
         getchar();
         scanf("%[^\n]s", person[i].name);
-
-        // validar campo sexo 
-        printf("Sexo: ");
-        getchar();
-        scanf("%c", &person[i].sexo);
-
+        
+        do {
+            printf("Sexo: ");
+            getchar();
+            scanf("%c", &person[i].sexo);
+            // validar campo sexo 
+            if((person[i].sexo != 'f') && (person[i].sexo != 'm') && (person[i].sexo != 'F') && (person[i].sexo != 'M')){
+                printf("-----------------\n");
+                printf("Erro! Tente novamente!\n");
+                printf("F - Feminino ou M - Masculino\n");
+                printf("-----------------\n");
+            }
+        } while ((person[i].sexo != 'f') && (person[i].sexo != 'm') && (person[i].sexo != 'F') && (person[i].sexo != 'M'));
+       
         printf("Idade: ");
         scanf("%d", &person[i].age);
         printf("Sálario: ");
@@ -74,8 +81,30 @@ void menu(){
     printf("-----------------\n");
     printf("1 - Relatório Geral\n");
     printf("2 - Relatório Senior\n");
-    printf("3 - Buscar Funcionario\n");
-    printf("4 - Sair do programa\n");
+    printf("3 - Sair do programa\n");
+}
+
+void relatorio(){
+    printf(" - Relatório Geral - \n");
+    for (int i=0; i<5; i++){
+        printf("Dados do funcionário %d\n", (i+1));
+        getchar();
+        printf("%s - %c - %d - %.2f\n", person[i].name, person[i].sexo, person[i].age, person[i].wage);
+        printf("-----------------\n");
+    }
+}
+
+void relatorio_senior(){
+    /*
+    printf(" - Relatório Senior - \n");
+    for (int i=0; i<5; i++){
+        if (person[i].age >= 35){
+            printf("Dados do funcionário %d\n", (i+1));
+            getchar();
+            printf("%s - %c - %d - %.2f\n", person[i].name, person[i].sexo, person[i].age, person[i].wage);
+            printf("-----------------\n");
+        }   
+    }*/
 }
 
 void left(){
