@@ -1,7 +1,7 @@
-# Algoritmos e Estrutura de Dados
+# Algoritmos
 
 ## Descrição: 
-Neste repositório estão todos os exercícios de algoritmos que fiz na linguagem C para estudo de lógica de programação e estrutura de dados. Usei a IDE Repl.It: https://repl.it/languages/c para desenvolver e testar os resultados.
+Neste repositório estão todos os exercícios de algoritmos que fiz na linguagem C para estudo de lógica de programação. Usei a IDE Repl.It: https://repl.it/languages/c para desenvolver e testar.
 
 ### Base para estudo:
 
@@ -22,5 +22,5 @@ Neste repositório estão todos os exercícios de algoritmos que fiz na linguage
 - 08-struct: Algoritmos com estrutura Struct
 - mini-projetos: Mini projetos contendo todo o conteúdo de algoritmo
 
-### Gostou? Me envie um email:
+### Gostou? Alguma sugestão ou dúvida? Me envie um email:
 alineprofissional@outlook.com
